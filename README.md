@@ -1,0 +1,2 @@
+# clash
+clash ini,list
